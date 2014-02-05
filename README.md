@@ -1,6 +1,6 @@
 amarka
 ======
-
+application web en PHP 4.x
 
 Introduction
 ====
@@ -15,7 +15,11 @@ Le code est vieux, moche et obsolète.
 
 Update
 ====
-L'application est publiée à titre d'illustration est n'est surtout pas destinée à être utilisée ou installée sur un serveur, certains mots de passes encore utilisé aujourd'hui peuvent avoir été oublié ou omis d'être supprimé dans les pages illustrant le fonctionnement de l'administration.
+L'application est publiée à titre d'illustration est n'est surtout pas destinée à être utilisée ou installée sur un serveur, certains mots de passes encore utilisés aujourd'hui peuvent avoir été oubliés ou omis d'être supprimés dans les pages illustrant le fonctionnement de l'administration.
+
+Sécurité
+====
+  L'application est bourrée de failles de sécurité, des script kiddies agile peuvent faire du cross script injection, rentrer des données frauduleuse ou récupérer des informations dans la base de donnée à travers des injections SQL.
 
 License
 ====
