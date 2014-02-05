@@ -16,7 +16,7 @@
             }
             ?>
 <h2>Prendre rendez-vous</h2>
-                <h3>Prenez rendez-vous grâce à cette interface.</h3>
+                <h3>Prenez rendez-vous grï¿½ï¿½ce ï¿½ï¿½ cette interface.</h3>
 
                 <form method="post" action="./index.php?page=rendez-vous&amp;action=ajouter_direct">
                     <input type="hidden" name="email" value="<? echo $email; ?>" />
@@ -24,13 +24,13 @@
                     <input type="hidden" name="horaire" value="<? echo $horaire; ?>" />
                     <table>
                         <tr>
-                            <td class="nomcase">Modèle du Véhiculeœôó¯:</td>
+                            <td class="nomcase">Modï¿½ï¿½le du Vï¿½ï¿½hiculeï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="vehicule" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Code Promoœôó¯*œôó¯:</td>
+                            <td class="nomcase">Code Promoï¿½ï¿½ï¿½*ï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="codepromo" />
                             </td>
@@ -44,9 +44,9 @@
                     </table>
                 </form><br /><br />
                 <p class="replacerLeFooter">
-                    * Si vous ne possédez pas de code promo, laissez le champ vide.<br />
+                    * Si vous ne possï¿½ï¿½dez pas de code promo, laissez le champ vide.<br />
                     Sachez que vous pouvez aussi entrer votre code promo dans
-                    <a href="./index.php?page=gestion_options_visiteur/principale" title="Vos Options">vos options</a> pour ne plus avoir à lœôòùentrer par la suite.
+                    <a href="./index.php?page=gestion_options_visiteur/principale" title="Vos Options">vos options</a> pour ne plus avoir ï¿½ï¿½ lï¿½ï¿½ï¿½ï¿½entrer par la suite.
                 </p>
             <?
         }
@@ -55,35 +55,35 @@
             $horaire = htmlspecialchars($_GET['horaire']);
             ?>
 <h2>Prendre rendez-vous</h2>
-                <h3>Prenez rendez-vous grâce à cette interface.</h3>
+                <h3>Prenez rendez-vous grï¿½ï¿½ce ï¿½ï¿½ cette interface.</h3>
 
-                <h4 class="tabuler">Formulaire simplifiéœôó¯:</h4><br />
+                <h4 class="tabuler">Formulaire simplifiï¿½ï¿½ï¿½ï¿½:</h4><br />
                 <p>
-                    Si vous êtes déjà inscrit vous pouvez remplir le formulaire simple.
+                    Si vous ï¿½ï¿½tes dï¿½ï¿½jï¿½ï¿½ inscrit vous pouvez remplir le formulaire simple.
                 </p><br /><br />
                 <form method="post" action="./index.php?page=rendez-vous&amp;action=connecter_ajouter">
                     <input type="hidden" name="horaire" value="<? echo $horaire; ?>" />
                     <table>
                         <tr>
-                            <td class="nomcase">Emailœôó¯:</td>
+                            <td class="nomcase">Emailï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="email" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Mot de passeœôó¯:</td>
+                            <td class="nomcase">Mot de passeï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="password" name="mot_de_passe" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Modèle de Véhiculeœôó¯:</td>
+                            <td class="nomcase">Modï¿½ï¿½le de Vï¿½ï¿½hiculeï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="vehicule" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Code Promoœôó¯*œôó¯:</td>
+                            <td class="nomcase">Code Promoï¿½ï¿½ï¿½*ï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="codepromo" />
                             </td>
@@ -97,24 +97,24 @@
                     </table>
                 </form>
                 <p>
-                    * Si vous ne possédez pas de code promo, laissez le champ vide.<br />
+                    * Si vous ne possï¿½ï¿½dez pas de code promo, laissez le champ vide.<br />
                     Sachez que vous pouvez aussi entrer votre code promo dans
-                    <a href="./index.php?page=gestion_optinos_visiteur/principale" title="Vos Options">vos options</a> pour ne plus avoir à lœôòùentrer par la suite.
+                    <a href="./index.php?page=gestion_optinos_visiteur/principale" title="Vos Options">vos options</a> pour ne plus avoir ï¿½ï¿½ lï¿½ï¿½ï¿½ï¿½entrer par la suite.
                 </p>
                 <br /> 
                 <hr />
                 <br />
-                <h4 class="tabuler">Formulaire completœôó¯:</h4><br />
+                <h4 class="tabuler">Formulaire completï¿½ï¿½ï¿½:</h4><br />
                 <p>
-                    Si vous nœôòùêtes pas inscrit vous pouvez remplir le formulaire complet.<br /><br />
-                    Sachez que vous êtes inscrit dès lorsque vous prenez votre premier rendez-vous, que vous faites une demande de partenariat ou que vous remplissez un formulaire
+                    Si vous nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tes pas inscrit vous pouvez remplir le formulaire complet.<br /><br />
+                    Sachez que vous ï¿½ï¿½tes inscrit dï¿½ï¿½s lorsque vous prenez votre premier rendez-vous, que vous faites une demande de partenariat ou que vous remplissez un formulaire
                     de contact.
                 </p><br /><br />
                 <form method="post" action="./index.php?page=rendez-vous&amp;action=inscrire_ajouter">
                     <input type="hidden" name="horaire" value="<? echo $horaire; ?>" />
                     <table>
                         <tr>
-                            <td class="nomcase">Titreœôó¯:</td>
+                            <td class="nomcase">Titreï¿½ï¿½ï¿½:</td>
                             <td>
                                 <select name="titre">
                                     <option value="Mr">Monsieur</option>
@@ -126,43 +126,43 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Nomœôó¯:</td>
+                            <td class="nomcase">Nomï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="nom" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Prénomœôó¯:</td>
+                            <td class="nomcase">Prï¿½ï¿½nomï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="prenom" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Mot de passeœôó¯:</td>
+                            <td class="nomcase">Mot de passeï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="password" name="mot_de_passe" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Modèle de véhiculeœôó¯:</td>
+                            <td class="nomcase">Modï¿½ï¿½le de vï¿½ï¿½hiculeï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="vehicule" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Téléphoneœôó¯:</td>
+                            <td class="nomcase">Tï¿½ï¿½lï¿½ï¿½phoneï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="telephone" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">E-mailœôó¯:</td>
+                            <td class="nomcase">E-mailï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="email" />
                             </td>
                         </tr>
                         <tr>
-                            <td class="nomcase">Code Promoœôó¯:</td>
+                            <td class="nomcase">Code Promoï¿½ï¿½ï¿½:</td>
                             <td>
                                 <input type="text" name="codepromo" />
                             </td>
@@ -176,8 +176,8 @@
                     </table>
                 </form>
                 <p class="dessousformulaire">
-                    Nous vous demandons toutes ces informations pour que vous nœôòùayez plus à les taper lorsque vous remplirai un autre formulaire (rendez-vous, demande de partenariat,
-                    contactœôó¦),
+                    Nous vous demandons toutes ces informations pour que vous nï¿½ï¿½ï¿½ï¿½ayez plus ï¿½ï¿½ les taper lorsque vous remplirai un autre formulaire (rendez-vous, demande de partenariat,
+                    contactï¿½ï¿½ï¿½),
                 </p>
             <?
         }
@@ -197,7 +197,7 @@
             $compteur = mysql_fetch_array($compte);
             $retour = mysql_query('SELECT email FROM rendez_vous WHERE horaire=\'' . $horaire . '\'');
             $qui = mysql_fetch_array($retour);
-            if($compteur['existe_deja'] == 0) // Si le rendez-vous nœôòùexiste pas encore.
+            if($compteur['existe_deja'] == 0) // Si le rendez-vous nï¿½ï¿½ï¿½ï¿½existe pas encore.
             {
                 mysql_query("INSERT INTO rendez_vous VALUES('', '" . $email . "', '" . $mot_de_passe . "', '" . $horaire . "', '" . $vehicule . "', '" . $codepromo . "')");
 
@@ -274,27 +274,27 @@
                     $horaire = '08<sup>H</sup>00';
                 }
                 ?>
-<h2>Votre rendez-vous à été enregistré</h2>
-                <h3>Votre rendez-vous à bien été enregistré sur calendrier</h3>
+<h2>Votre rendez-vous ï¿½ï¿½ ï¿½ï¿½tï¿½ï¿½ enregistrï¿½ï¿½</h2>
+                <h3>Votre rendez-vous ï¿½ï¿½ bien ï¿½ï¿½tï¿½ï¿½ enregistrï¿½ï¿½ sur calendrier</h3>
                 <p class="tabuler">
-                    Votre rendez à été enregistré avec succès.<br /><br />
+                    Votre rendez ï¿½ï¿½ ï¿½ï¿½tï¿½ï¿½ enregistrï¿½ï¿½ avec succï¿½ï¿½s.<br /><br />
 
-                    Voici les informations que nous avons retenuœôó¯:
+                    Voici les informations que nous avons retenuï¿½ï¿½ï¿½:
                 </p><br /><br />
                 <table id="confirmation_rendez_vous">
                     <tr>
                         <td><strong>Utilisateurs</strong></td>
-                        <td><? echo $utilisateurs['titre'] . ' ' . $utilisateurs['nom'];  ?></td>
+                        <td><? echo $utilisateurs['titre'] . 'ï¿½ï¿½' . $utilisateurs['nom'];  ?></td>
                     </tr>
                     <tr>
                         <td><strong>Horaire</strong></td>
-                        <td>Le JJ/MM/AAAA à <? echo $horaire; ?></td>
+                        <td>Le JJ/MM/AAAA ï¿½ï¿½ <? echo $horaire; ?></td>
                     </tr>
                     <tr>
-                        <td><strong>Durée</strong></td>
+                        <td><strong>Durï¿½ï¿½e</strong></td>
                         <td>45 Minutes</td>
                     <tr>
-                        <td><strong>Véhicule</strong></td>
+                        <td><strong>Vï¿½ï¿½hicule</strong></td>
                         <td><? echo $rendez_vous['vehicule']; ?></td>
                     </tr>
                     <tr>
@@ -303,26 +303,26 @@
                     </tr>
                 </table><br /><br />
                 <p class="tabuler">
-                    Merci de votre confiance, et à bientôt !<br /><br />
-                    œôöò Retourner à lœôòù<a href="./index.php" title="Page dœôòùaccueil">accueil</a>œôó¯?
+                    Merci de votre confiance, et ï¿½ï¿½ bientï¿½ï¿½t !<br /><br />
+                    ï¿½ï¿½ï¿½ï¿½ Retourner ï¿½ï¿½ lï¿½ï¿½ï¿½ï¿½<a href="./index.php" title="Page dï¿½ï¿½ï¿½ï¿½accueil">accueil</a>ï¿½ï¿½ï¿½?
                 </p>
                 <?
             }
             elseif($compteur['existe_deja'] > 0 AND $qui['nom'] == $nom)
             {
                 ?>
-<h2>Rendez-vous déjà enregistré</h2>
-                <h3>Vous avez déjà enregistré ce rendez-vous</h3>
+<h2>Rendez-vous dï¿½ï¿½jï¿½ï¿½ enregistrï¿½ï¿½</h2>
+                <h3>Vous avez dï¿½ï¿½jï¿½ï¿½ enregistrï¿½ï¿½ ce rendez-vous</h3>
                 <p>
-                    Il semble que vous avez déjà enregistré ce rendez-vous précédemment.<br />
-                    Cela est peut-être parce queœôó¯:
+                    Il semble que vous avez dï¿½ï¿½jï¿½ï¿½ enregistrï¿½ï¿½ ce rendez-vous prï¿½ï¿½cï¿½ï¿½demment.<br />
+                    Cela est peut-ï¿½ï¿½tre parce queï¿½ï¿½ï¿½:
                     <ul class="tabuler">
-                        <li class="dansLeTexte">Vous avez envoyé deux fois dœôòùaffilé le formulaire ou rechargé la page</li>
-                        <li class="dansLeTexte">Quelquœôòùun dœôòùautre avec qui vous partagez ce compte a déjà enregistrer un rendez-vous à cette heure-ci.</li>
+                        <li class="dansLeTexte">Vous avez envoyï¿½ï¿½ deux fois dï¿½ï¿½ï¿½ï¿½affilï¿½ï¿½ le formulaire ou rechargï¿½ï¿½ la page</li>
+                        <li class="dansLeTexte">Quelquï¿½ï¿½ï¿½ï¿½un dï¿½ï¿½ï¿½ï¿½autre avec qui vous partagez ce compte a dï¿½ï¿½jï¿½ï¿½ enregistrer un rendez-vous ï¿½ï¿½ cette heure-ci.</li>
                     </ul><br />
-                    Vous pouvezœôó¯:
+                    Vous pouvezï¿½ï¿½ï¿½:
                     <ul class="tabuler">
-                        <li class="dansLeTexte">Revenir à la page dœôòù<a href="./index.php" title="Accueil">accueil</a></li>
+                        <li class="dansLeTexte">Revenir ï¿½ï¿½ la page dï¿½ï¿½ï¿½ï¿½<a href="./index.php" title="Accueil">accueil</a></li>
                         <li class="dansLeTexte"><a href="./index.php?page=rendez-vous" title="Rendez-vous">Choisir une autre horaire</a></li>
                     </ul>
                 </p><br /><br /><br />
@@ -331,11 +331,11 @@
             elseif($compteur['existe_deja'] > 0 AND $qui['nom'] != $nom)
             {
                 ?>
-<h2>Rendez-vous déjà enregistré</h2>
-                <h3>Quelquœôòùun à déjà enregistré ce rendez-vous.</h3>
+<h2>Rendez-vous dï¿½ï¿½jï¿½ï¿½ enregistrï¿½ï¿½</h2>
+                <h3>Quelquï¿½ï¿½ï¿½ï¿½un ï¿½ï¿½ dï¿½ï¿½jï¿½ï¿½ enregistrï¿½ï¿½ ce rendez-vous.</h3>
                 <p class="replacerLeFooter">
-                    Désolé, quelque à déjà pris rendez-vous à cette heure-ci, veuillez en choisir une autre.<br /><br />
-                    Merci de votre compréhension.
+                    Dï¿½ï¿½solï¿½ï¿½, quelque ï¿½ï¿½ dï¿½ï¿½jï¿½ï¿½ pris rendez-vous ï¿½ï¿½ cette heure-ci, veuillez en choisir une autre.<br /><br />
+                    Merci de votre comprï¿½ï¿½hension.
                 </p>
                 <?
             }
@@ -419,7 +419,7 @@
         }
 ?>
 <h2>Prendre rendez-vous</h2>
-                <h3>Prenez rendez-vous grâce à cette interface.</h3>
+                <h3>Prenez rendez-vous grï¿½ï¿½ce ï¿½ï¿½ cette interface.</h3>
 
                 <p id="hautrendezvous">
                     Cliquez sur un horaire disponnible pour prendre rendez-vous
@@ -625,12 +625,12 @@
                     </tr>
                 </table>-->
                 <p class="important">
-                    <b>œôöò Pensez à vérifier votre éclairage avant de nous confier votre véhicule !</b>
+                    <b>ï¿½ï¿½ï¿½ï¿½ Pensez ï¿½ï¿½ vï¿½ï¿½rifier votre ï¿½ï¿½clairage avant de nous confier votre vï¿½ï¿½hicule !</b>
                 </p><br /><br />
                 <p id="boiteAInfosDroite">
-                    <span class="titre">Nous sommes ouvertœôó¯:</span><br /><br />
-                    Du Lundi au vendrediœôó¯: De 8<sup>H</sup>00 <b>à</b> 19<sup>H</sup>00.<br />
-                    Le Samediœôó¯: De 8<sup>H</sup>00 <b>à</b> 17<sup>H</sup>00.
+                    <span class="titre">Nous sommes ouvertï¿½ï¿½ï¿½:</span><br /><br />
+                    Du Lundi au vendrediï¿½ï¿½ï¿½: De 8<sup>H</sup>00 <b>ï¿½ï¿½</b> 19<sup>H</sup>00.<br />
+                    Le Samediï¿½ï¿½ï¿½: De 8<sup>H</sup>00 <b>ï¿½ï¿½</b> 17<sup>H</sup>00.
                 </p><br /><br /><br /><br />
 <?
     }
