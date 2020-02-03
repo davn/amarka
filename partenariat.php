@@ -1,7 +1,7 @@
 <?php
 if(isset($_GET['modifier']))
 {
-    mysql_connect("localhost", "root", "UCzQ149,*B$1y");
+    mysql_connect("localhost", "", "");
     mysql_select_db("amarka");
     $retour = mysql_query('SELECT * FROM partenariat WHERE id=\'' . $_GET['modifier'] . '\' AND supprime=\'0\'');
     $donnees = mysql_fetch_array($retour);
