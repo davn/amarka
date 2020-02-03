@@ -1,0 +1,221 @@
+<h2>Direction</h2>
+
+		<ul id="liste_points">
+		    <li>→ <a href="#tab1">Angle, ripage AV</a></li>
+		    <li>→ <a href="#tab2">Volant de direction</a></li>
+		    <li>→ <a href="#tab3">Antivol de direction</a></li>
+		    <li>→ <a href="#tab4">Colonne de direction (y compris ses accouplements)</a></li>
+		    <li>→ <a href="#tab5">Crémaillère, boîtier de direction</a></li>
+		    <li>→ <a href="#tab6">Biellette, timonerie de direction</a></li>
+		    <li>→ <a href="#tab7">Rotule, articulation de direction</a></li>
+		    <li>→ <a href="#tab8">Relais de direction</a></li>
+		    <li>→ <a href="#tab9">Système d'assistance de direction</a></li>
+		</ul>
+
+                <table class="pointControle">
+                    <tr id="tab1">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab2">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab3">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab4">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab5">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab6">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab7">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab8">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
+                <table class="pointControle">
+                    <tr id="tab9">
+                        <th class="casecote">Code altération</th>
+                        <th class="casemilieu">Défauts constatables</th>
+                        <th class="casecote">Contre-visite</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+
