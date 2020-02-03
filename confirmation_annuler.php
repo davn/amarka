@@ -1,5 +1,5 @@
 <?php
-    mysql_connect("localhost", "root", "UCzQ149,*B$1y");
+    mysql_connect("localhost", "", "");
     mysql_select_db("amarka");
     if(isset($_GET['annuler'])
     {

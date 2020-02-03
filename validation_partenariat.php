@@ -1,5 +1,5 @@
                 <?
-                    mysql_connect("localhost", "root", "TCiBzZN036"); // On se connecte
+                    mysql_connect("localhost", "", ""); // On se connecte
                     mysql_select_db("amarka");
 
                     if
