@@ -25,7 +25,7 @@
             !empty($_POST['codepostale'])
         )
         {
-            mysql_connect("localhost", "root", "UCzQ149,*B$1y");
+            mysql_connect("localhost", "", "");
             mysql_select_db("amarka");
             $titre = mysql_real_escape_string(htmlspecialchars($_POST['titre']));
             $nom = mysql_real_escape_string(htmlspecialchars($_POST['nom']));

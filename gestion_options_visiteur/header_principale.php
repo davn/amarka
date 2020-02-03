@@ -9,7 +9,7 @@
     }
     elseif($page == 'gestion_options_visiteur/principale' AND isset($_POST['email']) AND isset($_POST['mot_de_passe']))
     {
-        mysql_connect("localhost", "root", "TCiBzZN036"); // Connection
+        mysql_connect("localhost", "", ""); // Connection
         mysql_select_db("amarka");
         $email = mysql_real_escape_string(htmlspecialchars($_POST['email']));
         $mot_de_passe = mysql_real_escape_string(htmlspecialchars($_POST['mot_de_passe'])); // On récupere les variables

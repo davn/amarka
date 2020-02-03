@@ -1,5 +1,5 @@
 <?
-    mysql_connect("localhost", "root", "TCiBzZN036");
+    mysql_connect("localhost", "", "");
     mysql_select_db("amarka");
     if(!isset($_COOKIE['email']) AND !isset($_COOKIE['mot_de_passe']))
     {
